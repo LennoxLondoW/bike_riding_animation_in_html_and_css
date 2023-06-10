@@ -1,0 +1,3 @@
+bike.svg - open this file to access your svg code to be used in index.html
+bike_figma_file.fig - this is a figma file that you can edit your bike svg
+index.html - this is the file for animating the figma file
